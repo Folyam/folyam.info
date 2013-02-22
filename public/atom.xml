@@ -4,7 +4,7 @@
   <title><![CDATA[Folyam.info]]></title>
   <link href="http://folyam.info/atom.xml" rel="self"/>
   <link href="http://folyam.info/"/>
-  <updated>2013-02-22T22:30:39+01:00</updated>
+  <updated>2013-02-22T22:34:51+01:00</updated>
   <id>http://folyam.info/</id>
   <author>
     <name><![CDATA[Balazs Nadasdi]]></name>
@@ -31,7 +31,8 @@ itt is. Milyen változásokat hol ez?</p>
 külsőt. Talán egyszer átrakom másra, de most ez a legkevésbé prioritásos munkám. Működésben
 eltűnnek a címkék és a több kategóriás rendszer kerül be. Ennek vannak negatív részei is.
 Nem tudtam megoldani, hogy az URL ugyan az legyen így az összes +1 eltűnt. =( Ez egy
-elég negatív dolog az egészben. Ami viszont így jó, hogy könnyebb kezelni és a Dev miatt
+elég negatív dolog az egészben. A régi címek is elérhetőek, mert egy átirányítással
+gyorsan megt tudtam azt oldani. Ami viszont így jó, hogy könnyebb kezelni és a Dev miatt
 már jópár kiegészítőt írtam hozzá, amiktől még egyszerűbbé vált és folyamatosan válik.</p>
 
 <p>Az aktivitásom mostanában eltűnt, de visszahozom. Kicsit kilépek majd a Google+ soraiból
