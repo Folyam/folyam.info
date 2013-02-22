@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Élő Folyam #3 - Google+ Közösségek"
+title: "Élő Folyam #3"
 categories: [hangout, google+, elofolyam, hogyan]
 comments: true
 date: 2013-01-25 20:09
