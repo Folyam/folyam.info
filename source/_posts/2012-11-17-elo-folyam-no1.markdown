@@ -7,6 +7,8 @@ date: 2012-11-17 20:17
 pluspost: https://plus.google.com/u/0/105853491239853198987/posts/dTZpHLL4nWk
 ---
 
+{% img center http://folyam.info.s3.amazonaws.com/2012-07-25-ki-hogyan-osztja-be-kreit/Hangout-Air-Header.jpeg "Hangout Air Header" %}
+
 Felhasználó tiltása, mellőzése és némítása, Google Play-ről alkalmazás egy Google+
 bejegyzésben, Köröknél új fokozat avagy minden bejegyzésről kérek értesítőt, Google kereső
 megújúlt, Hangout Air, lehetőségek és koncertek, Blogolás Google+ oldalként vagy

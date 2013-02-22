@@ -7,6 +7,8 @@ date: 2012-12-02 20:11
 pluspost: https://plus.google.com/u/0/105613682641367710983/posts/ZXhby6n1Cxr
 ---
 
+{% img center http://folyam.info.s3.amazonaws.com/2012-07-25-ki-hogyan-osztja-be-kreit/Hangout-Air-Header.jpeg "Hangout Air Header" %}
+
 Körök logikája, kezelése, Köreid és Tágabb köreid fogalma illetve Megosztás éretsítéssel és anélkül
 
 <!--more-->

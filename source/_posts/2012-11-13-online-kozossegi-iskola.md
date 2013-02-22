@@ -2,7 +2,7 @@
 layout: post
 title: "Online Közösségi Iskola"
 categories: [oktatas, publikacio]
-comment: true
+comments: true
 date: 2012-11-13 15:27
 ---
 

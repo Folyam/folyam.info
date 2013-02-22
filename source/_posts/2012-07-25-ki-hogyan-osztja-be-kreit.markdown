@@ -2,7 +2,7 @@
 layout: post
 title: "Ki hogyan osztja be köreit?"
 categories: [hangout, google+]
-comment: true
+comments: true
 date: 2012-07-25 21:16
 image: http://folyam.info.s3.amazonaws.com/2012-07-25-ki-hogyan-osztja-be-kreit/Hangout-Air-Header.jpeg
 pluspost: https://plus.google.com/u/0/104695723888883478740/posts/hoefjakTc4G

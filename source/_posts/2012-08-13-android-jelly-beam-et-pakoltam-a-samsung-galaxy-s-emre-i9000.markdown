@@ -2,7 +2,7 @@
 layout: post
 title: Android Jelly Bean-t pakoltam Galaxy S-re
 categories: [android, beszamolo]
-comment: true
+comments: true
 date: 2012-08-13 14:42
 image: http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/header.jpeg
 pluspost: "https://plus.google.com/u/0/104695723888883478740/posts/cGRXa1oGLZx"
