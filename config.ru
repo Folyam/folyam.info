@@ -1,8 +1,13 @@
 require 'bundler/setup'
 require 'sinatra/base'
+require 'rack/rewrite'
 
 # The project root directory
 $root = ::File.dirname(__FILE__)
+
+use Rack::Rewrite do
+  r301 %r{^/[a-z]+/([0-9]{4})/([0-9]{2})/([0-9]{2})/(.*)$}, '/$1/$2/$3/$4'
+end
 
 class SinatraStaticServer < Sinatra::Base
 
