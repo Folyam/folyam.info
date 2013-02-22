@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategória: altalanos | Folyam.info]]></title>
+  <link href="http://folyam.info/blog/categories/altalanos/atom.xml" rel="self"/>
+  <link href="http://folyam.info/"/>
+  <updated>2013-02-22T13:19:41+01:00</updated>
+  <id>http://folyam.info/</id>
+  <author>
+    <name><![CDATA[Balazs Nadasdi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://folyam.info/2012/07/16/hello-world/"/>
+    <updated>2012-07-16T00:00:00+02:00</updated>
+    <id>http://folyam.info/2012/07/16/hello-world</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-17-hello-world/header.png" title="&#34;Fejléc&#34;" alt="&#34;Fejléc&#34;"></p>
+
+<p>Ez az első magyar blogom. Kicsit izgulok, hogy magyarul és
+ékezettel mennyire fogom bírni az írást és mennyire tudom
+majd értelmesen megtölteni az oldalt, mert eddig mindig
+az rettentett el, hogy nagyon nehéz volt ékezetet használnom
+lévén angol billentyűzetem volt egész életemben és hát na...
+nehéz megszokni az <code>y</code> és <code>z</code> elhelyezkedését
+és hogy ha <code>é</code>-t akarok írni akkor nem a bal kezemmel
+írom a <code>w</code> mellett, hanem a kettőspont helyén
+a <code>l</code> mellett <em>(meg persze)</em> zavaró az egyéb írásjelek
+pozíciója is :)</p>
+
+<p>Mit is fogtok majd tőlem itt látni? Elsősorban <a href="https://plus.google.com/">Google+</a> specifikus
+tartalmakat. Leírásokat, videókat, tippeket és trükköket...
+No meg persze híreket, de mivel ezeket általában úgy is mindenki
+megkapja, így csak abban az esetben, ha ez indokolt.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,19 @@
+{% if post.author %}
+  {% assign author = post.author %}
+{% elsif page.author %}
+  {% assign author = page.author %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+{% if post.googleplus_user %}
+  {% assign googleplus_user = post.googleplus_user %}
+{% elsif page.googleplus_user %}
+  {% assign googleplus_user = page.googleplus_user %}
+{% elsif site.googleplus_user %}
+  {% assign googleplus_user = site.googleplus_user %}
+{% endif%}
+
+{% if author %}
+  <span class="byline author vcard">Beküldő: <a href="https://plus.google.com/{{ googleplus_user }}?rel=author" target="_blank"><span class="fn">{{ author }}</span></a></span>
+{% endif %}

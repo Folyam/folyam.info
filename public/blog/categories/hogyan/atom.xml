@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategória: hogyan | Folyam.info]]></title>
+  <link href="http://folyam.info/blog/categories/hogyan/atom.xml" rel="self"/>
+  <link href="http://folyam.info/"/>
+  <updated>2013-02-22T13:19:41+01:00</updated>
+  <id>http://folyam.info/</id>
+  <author>
+    <name><![CDATA[Balazs Nadasdi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Élő Folyam #3 - Google+ Közösségek]]></title>
+    <link href="http://folyam.info/2013/01/25/elo-folyam-no3/"/>
+    <updated>2013-01-25T20:09:00+01:00</updated>
+    <id>http://folyam.info/2013/01/25/elo-folyam-no3</id>
+    <content type="html"><![CDATA[<p>Google+ közösségek</p>
+
+<p><iframe src="http://www.youtube.com/embed/iq8adTQRtQs" width="620" height="465" frameborder='0' allowfullscreen='true'></iframe></p>
+
+<h2>Közösségek elérhetősége</h2>
+
+<h2>Közösségek vs. Oldalak</h2>
+
+<h2>Közösségek keresése</h2>
+
+<h2>Közösségek megosztása, meghívás</h2>
+
+<h2>Közösségek moderálása</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Élő Folyam #2]]></title>
+    <link href="http://folyam.info/2012/12/02/elo-folyam-no2/"/>
+    <updated>2012-12-02T20:11:00+01:00</updated>
+    <id>http://folyam.info/2012/12/02/elo-folyam-no2</id>
+    <content type="html"><![CDATA[<p>Körök logikája, kezelése, Köreid és Tágabb köreid fogalma illetve Megosztás éretsítéssel és anélkül</p>
+
+<p><iframe src="http://www.youtube.com/embed/_U4qsvI-iOE" width="620" height="465" frameborder='0' allowfullscreen='true'></iframe></p>
+
+<h3>Körök logikája</h3>
+
+<p>Szóba került, hogy itt az embereket körökbe kell rendezni.
+Minden ember tartozik legalább egy körbe, de tartozhat többe is.</p>
+
+<h3>Körök kezelése</h3>
+
+<p>Egy körnek megadható, hogy kik vannak benne és hogy az adott körben
+lévő emberek bejegyzéseit mennyire szeretnénk látni a folyamunkon, azaz a főoldalon.
+Itt van egy kiemelt rész, amikor a körben lévő emberek minden bejegyzéséről értesítést
+várunk, mig a legkisebb értéken az adott kör egyetlen bejegyzése sem fog látszódni
+a főoldalon. A nullás megjelenésű körök sem vesznek el, hiszen megtekinthető egy adott
+kör, mint folyam, és így azokra is ránézhetünk, akiket a főoldali folyamról eltűntettünk.</p>
+
+<h3>"Köreid"</h3>
+
+<p>A köreid megszagható, hogy mit jelentsen, így ez a megosztásnál nem biztos,
+hogy minden általad bekörözött embert jelent.</p>
+
+<h3>"Tágabb körök"</h3>
+
+<p>A tágabb köröknél viszont láthatja mindenki akit beköröztél. Itt a magyar segítség a Google-től
+azt mondja, hogy a bekörözött emberek és azok bekörözöttjei láthatják, ám sokat teszteltük és
+ezt így én nem merném állítani. Így én azt követem, hogy a tágabb kör azt jelenti, hogy mindenki
+akit beköröztem.</p>
+
+<h3>Megosztás éretsítéssel és anélkül</h3>
+
+<p>Minden megosztásnál beállítható, hogy adott körök, akikkel megosztod kapjon róla értesítést.
+Ezt érdemes ritkán használni, mert igencsak idegesítő tud lenni. Régen be lehetett állítani, hogy
+ha több körrel osztasz meg egy tartalmat, akkor melyik kör kapjon értesítést és melyik ne,
+ez most nincs. Vagy mindenki vagy senki. Ha személyt írunk be, akkor az mindenképpen kap értesítést.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Elő Folyam #1]]></title>
+    <link href="http://folyam.info/2012/11/17/elo-folyam-no1/"/>
+    <updated>2012-11-17T20:17:00+01:00</updated>
+    <id>http://folyam.info/2012/11/17/elo-folyam-no1</id>
+    <content type="html"><![CDATA[<p>Felhasználó tiltása, mellőzése és némítása, Google Play-ről alkalmazás egy Google+
+bejegyzésben, Köröknél új fokozat avagy minden bejegyzésről kérek értesítőt, Google kereső
+megújúlt, Hangout Air, lehetőségek és koncertek, Blogolás Google+ oldalként vagy
+személyként. Lehetséges?</p>
+
+<p><iframe src="http://www.youtube.com/embed/HLDhC8MM7b4" width="620" height="465" frameborder='0' allowfullscreen='true'></iframe></p>
+
+<h3>Felhasználó tiltása, mellőzése és némítása</h3>
+
+<p>Három mód van egy felhasználó mellőzésére.</p>
+
+<ul>
+<li>Tiltjuk a felhasználót. Ez a legdurvább, mert tulajdonképpen a tiltott számára is és számomra is eltűnik
+a másik ember. Semmit se lehet belőle látni. Mintha ott se lenne.</li>
+<li>Némítjuk a felhasználót, amivel elérjük, hogy ne küldözgessen értesítéseket.</li>
+<li>Mellőzzük a felhasználót, ami tulajdonképpen egy látható lesz, de nem fog zavarni.</li>
+</ul>
+
+
+<h3>Google Play-ről alkalmazás egy Google+ bejegyzésben</h3>
+
+<p>Csak említés szinten került szóba, hogy ha megosztunk egy Android Alkalmazást,
+akkor az nem normál linkként fog megjelenni, hanem ott lesz egy install/telepítés gomb,
+hogy gyorsan felrakhassuk telefonunkra. Egy fontos dolog van: Egyelőre a Google Play-en
+az alkalmazás oldalán jelen lévő +1 gomb nem ilyen megosztást készít. Remélhetőleg javítják.</p>
+
+<h3>Köröknél új fokozat avagy minden bejegyzésről kérek értesítőt</h3>
+
+<p>A körök beállításánál (bővebben erről <a href="/hogyan/2012/07/18/tl-zsfolt-a-folyamod/">itt olvashatsz</a> )
+megjelent egy új fokozat. Ez pedig a <strong>mindenről kérek értesítőt</strong>. Ha egy körre ezt állítjuk be,
+akkor minden bejegyzésről értesítőt kapunk, ami például nekem a <em>Család</em> nevű körnél hasznod, ahol
+kevés a bejegyzés, viszont akkor mindenképpen érdekel.</p>
+
+<h3>Google kereső megújúlt.</h3>
+
+<p>A kereső hol megújult, hol nem. A legfontosabb változás, hogy a bal oldali választóllista és beállítási
+lehetőségek a felső sorba kerültek, míg a jobb oldalon egyre nagyobb üres területre bekerültek az
+intelligens kártyák. Ezek a kártyák segítenek információhoz jutni anélkül, hogy meg kellene nyitnunk
+bármelyik találatot is.</p>
+
+<h3>Hangout Air, lehetőségek és koncertek</h3>
+
+<p>Magyarországon még kevés a Hangout és még kevesebb a Hangout Air. Remélhetőleg ez változni fog.</p>
+
+<h3>Blogolás Google+ oldalként vagy személyként. Lehetséges?</h3>
+
+<p>Van értelme Google+-on blogolni? Szerintem igen. Ha nem akarsz mindenáron reklámot berakni, ha nem akarsz
+milliónyi formázást belerakni, akkor szerintem jó. Könnyen megosztható és eszköz is van a terjedésének
+követésére.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kihalt ez a Google+]]></title>
+    <link href="http://folyam.info/2012/07/23/kihalt-ez-a-google/"/>
+    <updated>2012-07-23T15:11:00+02:00</updated>
+    <id>http://folyam.info/2012/07/23/kihalt-ez-a-google</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-23-kihalt-ez-a-google/aktivitas.png" title="Aktivitás" ></p>
+
+<p>Ok, beregisztráltam... Szép és nagyon 'modern-web', de bármikor felnézek, akkor senki sincs sehol. Egyszóval unalmas. Ez tényleg kihalt.</p>
+
+<h3>Hogyan lehet ezen segíteni?</h3>
+
+<p>Először is töltsd ki a profilodat. Te követnél egy embert akinek egyetlen bejegyzését se látod és a profilján annyi van kiírva, hogy <em>"szeretem a süteményeket"</em>. Én nem és ezzel sokan vannak így. Tehát az első dolgod legyen az, hogy kitöltöd a profilodat. Pár minta, hogy miként néz ki egy kitöltött profil: <a href="https://plus.google.com/u/0/108110717078326667823/about">+Náhóczki Náhó Gábor</a>, <a href="https://plus.google.com/u/0/115019568040610449328/about">+István Türk</a>, <a href="https://plus.google.com/u/0/104284104510859678143/about">+Timi campagna</a>, <a href="https://plus.google.com/u/0/102497722463404815827/about">+Zoltán Stekkelpak</a> és persze <a href="https://plus.google.com/u/0/104695723888883478740/about">jómagam</a> :)</p>
+
+<p>Ha megvan a profilod és úgy érzed, hogy ha erre ránéz bárki akkor tud alkotni egy képet rólad, ami alapján követni kezd, ami felkelti az érdeklődést.</p>
+
+<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-23-kihalt-ez-a-google/kereses.png" title="Keresés" ></p>
+
+<p>Második fontos lépés, hogy keress embereket akiknek a bejegyzései érdekelhetnek. Legegyszerűbb, ha a keresőbe beírsz –az oldal tetején– egy általad érdekelt szót vagy kifejezést. Ekkor ki lesznek –alapértelmezetten népszerűség alapján– listázva az ide kapcsolódó bejegyzések. Innen már meg tudod nézni az érdekes emberek profilját, többi bejegyzését <em>(ha írt publikus bejegyzést)</em>. Ha valaki érdekel akkor a nevére húzva az egeret és feljön egy kis doboz amiben egyből körökbe is rakhatod.</p>
+
+<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-23-kihalt-ez-a-google/gyors-korozes.png" title="&#34;Gyors Körözés&#34;" alt="&#34;Gyors Körözés&#34;"></p>
+
+<p>Ha már van pár ember a köreidben, akkor már relevánsabban tud ajánlani az oldal is neked.</p>
+
+<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-23-kihalt-ez-a-google/ajanlas-es-trendek.png" title="&#34;Ajánlás és Trendek&#34;" alt="&#34;Ajánlás és Trendek&#34;"></p>
+
+<h3>Mi van még?</h3>
+
+<p>Személyeken kívűl még oldalakat is körözhetsz. Ezeket is személyek vezetik, de korántsem biztos, hogy egy személy. Kezdésnek, ha magyar embereket keresel vagy csak egy magyar oldalt, akkor tudom ajánlani ezeket az oldalakat: <a href="https://plus.google.com/u/0/103179886283856910732/posts">+Magyar G+ felhasználók oldala</a>, <a href="https://plus.google.com/u/0/108438016412516478289/posts">+Blake Dashed | Blog</a>, <a href="https://plus.google.com/u/0/105356270585330393794/posts">+Shopping All webáruház</a> vagy esetleg <a href="https://plus.google.com/u/0/101483994228463734945/posts">+Hungarian cyclists</a>. Ezen oldalaknál, ha megnézed kik követik az oldalt és az oldal kiket követ, akkor nagyon sok magyart találhatsz.</p>
+
+<p>Kellemes böngészést és jó szórakozást, ha ajánlanál érdekes magyar oldalt akkor nyugodtan írd meg és berakom a listába. Hamarosan pedig jövök majd egy részletesebb személy és oldal listával is.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Túl zsúfolt a folyamod?]]></title>
+    <link href="http://folyam.info/2012/07/18/tl-zsfolt-a-folyamod/"/>
+    <updated>2012-07-18T18:43:00+02:00</updated>
+    <id>http://folyam.info/2012/07/18/tl-zsfolt-a-folyamod</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-18-zsfolt-a-folyamod/header.png" title="Fejléc" ></p>
+
+<p>Sok érdekes ember és oldal van Google+ terngerén, de előbb utóbb követhetetlen lehet a
+sok bejegyzés, meg persze nem biztos hogy mindig minden követett bejegyzése érdekel.</p>
+
+<p>Ha az ember ráérez a <a href="https://plus.google.com/">Google+</a> adta lehetőségekre
+és már sok embert berakott köreibe, mert érdekesnek találta, akkor
+előbb-utóbb eljön az idő, amikor rájön, hogy bizonyon oldalak vagy
+emberek bejegyzéseire nem mindig vagy nem olyan intenzitással kíváncsi.
+Erre nagyon jó lehetőséget ad nekünk a rendszer, mert körönként
+megadhatjuk, hogy mennyire szeretnénk látni az adott körbe tartozó
+bejegyzéseket a fő folyamunkban.</p>
+
+<h3>Mégis hogyan?</h3>
+
+<p>Ha nem egy körbe raktál mindenkit akkor kiválasztasz egy kört a felső
+sávban található gyors-körválasztónál.</p>
+
+<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-18-zsfolt-a-folyamod/choose-circle.png" title="Körválasztó" ></p>
+
+<p>Ha egy kör folyamát nézed, akkor nem látod csak azokat a bejegyzéseket
+amiket az ebbe a körbe tartozó emberek és oldalak írtak. Ebben a nézetben
+a jobb felső sarokban a körválasztótól jobbra található egy csúszka,
+amin alapértelmezetten középen van egy kör. Ez azt jelenti, hogy
+az ebbe a körbe tartozó bejegyzésekből többet szeretnél látni.</p>
+
+<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-18-zsfolt-a-folyamod/intensity.png" title="&#34;Mennyit akarsz belőle látni?&#34;" alt="&#34;Mennyit akarsz belőle látni?&#34;"></p>
+
+<p>Ha ezt a csúszkát balra húzod akkor kevesebbet fogsz belőlük látni, ha
+pedig teljesen elhúyod balra — a csúszka elejére — akkor semennyire
+sem fog megjelenni, tehát egyetlen bejegyzés sem fog megjelenni
+<em>(Kivétel, ha valami nagyon kedvelt bejegyzésről van szó)</em>.
+Amennyiben ezt a csúszkát tejesen jobbra húzod akkor <strong>minden</strong>,
+de tényleg minden bejegyzés megjelenik az adott körből.</p>
+
+<p>Ugyan ezt a beállítást elvégezheted a <code>körök</code> menüpontban egy kör
+szerkesztésénél a jobb felső sarokban egy <code>műveletek</code> nevű lenyitható
+gomb segítségével <em>(Kör méretének növelése és csökkentése)</em>.</p>
+
+<p>Remélem így már kevésbé érzed majd <em>szemetesnek</em> a folyamodat. Az elsőnek leírt jóval
+egyszerűbb szerintem, éppen ezért részleteztem azt a folyamatot. Látványosabb is :)
+Szóval ne felejtsd el beállítani, hogy csak azt lásd amit szeretnél.</p>
+
+<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-18-zsfolt-a-folyamod/footer.png" title="&#34;Csúszka a sarokban&#34;" alt="&#34;Csúszka a sarokban&#34;"></p>
+]]></content>
+  </entry>
+  
+</feed>

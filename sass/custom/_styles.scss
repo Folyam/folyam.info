@@ -1,0 +1,223 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+
+a {
+  color: hsl(207, 74%, 36%);
+  &:visited {
+    color: hsl(10, 74%, 36%);
+  }
+  &:hover, &:visited:hover {
+    color: hsl(207, 99%, 46%);
+  }
+}
+
+
+
+.byline.author.vcard {
+  a {
+    color: hsl(0, 0%, 13%);
+    text-decoration: none;
+    font-weight: bold;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+img.zoom {
+  &:hover {
+    -webkit-transform: scale(2.7);
+    -moz-transform: scale(2.7);
+    -o-transform: scale(2.7);
+    transform: scale(2.7);
+  }
+}
+
+img {
+  background-color: white;
+}
+
+.ad-left, .ad-right {
+  margin-bottom: 4px;
+  margin-top: 8px;
+}
+
+.ad-left {
+  float: left;
+  margin-right: 15px;
+}
+
+.ad-right {
+  float: right;
+  margin-left: 15px;
+}
+
+#category_index {
+  #category-list {
+    li {
+      list-style: none;
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+      padding: 2px;
+
+      a {
+        text-decoration: none;
+        padding: 5px 10px;
+        background-color: hsla(0, 0%, 20%, 0.02);
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        border: 1px solid hsla(0, 0%, 20%, 0);
+
+        &::hover {
+          background-color: hsla(0, 0%, 20%, 0.1);
+          border: 1px solid hsla(0, 0%, 20%, 0.3);
+        }
+      }
+    }
+  }
+}
+
+.sharing.external {
+  float: right;
+}
+
+.product-box {
+  overflow: hidden;
+  padding-bottom: 1.5em;
+  padding-top: 1.5em;
+
+  img {
+    float: left;
+    max-width: 25%;
+  }
+
+  .product-info {
+    margin-left: 28%;
+
+    .product-title {
+      padding-top: 10px;
+      padding-bottom: 5px;
+      font-size: 1.6em;
+      font-weight: bold;
+
+      a {
+        color: hsl(0, 0%, 30%);
+        text-decoration: none;
+      }
+    }
+
+    .product-author {
+      font-style: italic;
+    }
+
+    .product-price {
+      padding: 8px 0;
+
+      span {
+        padding: 0 5px;
+
+        &.now {
+          color: hsl(120, 50%, 40%);
+          font-weight: bold;
+          font-size: 1.3em;
+        }
+
+        &.old {
+          font-weight: bold;
+          font-size: 1em;
+          text-decoration: line-through;
+        }
+      }
+    }
+
+    .product-promo-code {
+      font-size: 0.8em;
+
+      span {
+        color: hsl(230, 50%, 40%);
+        font-weight: bold;
+        font-size: 1.3em;
+      }
+    }
+
+    .product-source {
+      font-size: 0.9em;
+      float: right;
+    }
+
+    .product-description {
+      padding-top: 6px;
+      font-size: 0.8em;
+      font-style: italic;
+    }
+  }
+}
+
+.googleplusembed {
+  overflow: hidden;
+  margin-bottom: 20px;
+  padding: 10px;
+
+  .annotation {
+    margin-left: 100px;
+  }
+
+  .original {
+    margin-left: 100px;
+    margin-top: 20px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-top: 1px dashed #aaa;
+  }
+
+  .attachments {
+    clear: both;
+    margin-left: 100px;
+
+    .attachment {
+      font-size: 0.8em;
+      line-height: 1.4em;
+      overflow: hidden;
+      margin-bottom: 10px;
+
+      img {
+        max-width: 200px;
+      }
+
+      strong {
+        padding-bottom: 16px;
+        display: block;
+      }
+    }
+  }
+
+  .actor {
+    div {
+      padding-bottom: 16px;
+      display: block;
+    }
+  }
+
+  a.jump {
+    font-size: 0.8em;
+    float: right;
+  }
+
+  small {
+    float: right;
+    color: #555;
+    margin-left: 15px;
+  }
+
+  .comments {
+    margin-left: 100px;
+    a {
+      font-weight: bold;
+      margin-left: 10px;
+    }
+  }
+}

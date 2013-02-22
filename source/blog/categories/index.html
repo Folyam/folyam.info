@@ -1,0 +1,52 @@
+---
+layout: page
+title: Kategórialista
+footer: false
+---
+
+<section id="category_index">
+  <h1>Categories</h1>
+  <ul id="category-list">{% category_list counter:true %}</ul>
+  <div id="blog-archives">
+  {% for post in site.posts reverse %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% unless year == this_year %}
+    {% assign year = this_year %}
+    <h2>{{ year }}</h2>
+  {% endunless %}
+  <article>
+    {% include archive_post.html %}
+  </article>
+  {% endfor %}
+  </div>
+</section>
+
+<script type="text/javascript">
+  jQuery(function() {
+    jQuery('#blog-archives article').hide();
+    jQuery("#category_index #category-list li a").click(function(e) {
+      var that = this;
+      e.preventDefault();
+      e.stopPropagation();
+      jQuery("#blog-archives .category").closest('article').hide();
+      jQuery("#blog-archives article:last-child").hide(0, function() {
+        var needToBeVisible = false;
+        jQuery(this).find(".category").each(function(index, item) {
+          if (jQuery(item).attr("href").replace(/\/$/, "") == jQuery(that).attr("href").replace(/\/$/, "")) {
+            needToBeVisible = true;
+          }
+        });
+        var callee = arguments.callee;
+        var _t = this;
+        if (needToBeVisible) {
+          jQuery(this).show(200, function() {
+            jQuery(_t).prev("article").hide(0, callee);
+          });
+        } else {
+          jQuery(_t).prev("article").hide(0, callee);
+        }
+      });
+      return false;
+    });
+  });
+</script>

@@ -1,0 +1,32 @@
+<html ng-app>
+  <head>
+    <link rel="stylesheet" href="stylesheets/main.css">
+    <script type="text/javascript" src="javascripts/angular.min.js"></script>
+    <script type="text/javascript" src="javascripts/app.js"></script>
+  </head>
+  <body>
+    <div ng-controller='App.controllers.Link'>
+      <form ng-submit="addLink()">
+        <input type="text"
+               ng-model="newLink"
+               placeholder="add new link here">
+        <input type="submit" value="add">
+      </form>
+
+      <table>
+        <tr>
+          <th>Short link</th>
+          <th>Target link</th>
+          <th>Clicks</th>
+          <th>Created at</th>
+        </tr>
+        <tr ng-repeat="link in links">
+          <td><a href="{{link.short}}">{{link.short}}</a></td>
+          <td><a href="{{link.long}}">{{link.long}}</a></td>
+          <td>{{link.clicks}}</td>
+          <td>{{link.created_at}}</td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>

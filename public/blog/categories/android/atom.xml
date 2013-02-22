@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategória: android | Folyam.info]]></title>
+  <link href="http://folyam.info/blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://folyam.info/"/>
+  <updated>2013-02-22T13:19:41+01:00</updated>
+  <id>http://folyam.info/</id>
+  <author>
+    <name><![CDATA[Balazs Nadasdi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Android Jelly Bean-t pakoltam Galaxy S-re]]></title>
+    <link href="http://folyam.info/2012/08/13/android-jelly-beam-et-pakoltam-a-samsung-galaxy-s-emre-i9000/"/>
+    <updated>2012-08-13T14:42:00+02:00</updated>
+    <id>http://folyam.info/2012/08/13/android-jelly-beam-et-pakoltam-a-samsung-galaxy-s-emre-i9000</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/header.jpeg" title="Jelly Bean" ></p>
+
+<p>Elmondható nagyon sok minden a Jelly Bean-ről <em>—a 4.1-es Androidról—</em> jó és rossz oldalon
+egyaránt. Nekem tetszik és gyorsan meg is mutatnám mi az ami legelőször belopta szívembe
+eme rendszert.</p>
+
+<h3>JB, de honnan?</h3>
+
+<p>Először is nézzük meg mit használok.
+<a href="http://teamjellybean.noez.in/samsung-galaxy-s/changelog/">Team Android Jelly Bean v7.1 - röviden TAJB</a>
+ROM-ot rántottam fel a telefonra. Először izgultam, de miután a PIN kódig eljutottam már
+megkönnyebbültem.</p>
+
+<h3>Első gondolatok az értesítéssel kapcsolatban</h3>
+
+<p>Sok olyan dolog volt ami szembetűnt és ezekből az első az értesítési sáv feltúrbózottsága
+volt. Én egyszerűen imádom. Az értesítőknek két állapota van. Az első a megszokott kis
+nézet, de ezen felül bekerült a kinyitott, nagyobb nézet. Ha egy értesítő rendelkezik
+mindkét nézettel akkor két újas tologatással össze csukható, illetve kibontható.
+Lényegében ha például van 3 új olvasatlan leveled, akkor alapértelmezetten kiírja, hogy
+van 3 új leveled :) Amennyiben viszont két ujjal lehúzzuk az értesítő sorát kiírja a
+leveleket, hogy kitől jött. Ha csak 1 leveled van, akkor a tartalmából ad betekintőt.
+Ugyan ilyen a
+<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.plus">Google+ alkalmazás</a>
+értesítései kirakják a +1 és az tovább osztás gombokat, illetve ha van kép hozzá, akkor
+még azt is megmutatja.</p>
+
+<p><img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0001.png" width="130" title="Kezdőképernyő" >
+<img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0002.png" width="130" title="Google+ értesítő kinyitva" >
+<img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0003.png" width="130" title="Google+ értesítő becsukva" >
+<img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0004.png" width="130" title="Képernyőkép értesítő kinyitva" >
+<img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0005.png" width="130" title="Battery Widget? Reborn! kinyitva" ></p>
+
+<h3>Képernyőfotó készítése</h3>
+
+<p>Régebben <em>(Gingerbread és Ice Cream Sandwich alatt)</em> a menü gomb és a hangerő mínusz
+gombbal lenyomásával volt elérhető. Idegesítő is volt, hogy állandóan beleugrott a menü a
+fotóba. Ez mostmár nem így van, hanem a hangerő le + bekapcsoló gomb együttes lenyomásával
+történik. Szerintem jobb lett, de sokan nem is tudják, hogy lehet ilyet :)</p>
+
+<h3>Google Now - Mindent most</h3>
+
+<p>Egy szóval leírva: <strong>Zseniális</strong>. Először azt láttam, hogy egyből adja nekem az időjárást.
+ Ezután beállítottam, hogy közlekedni tömegközlekedéssel vágok neki az céljaimhoz vezető
+ utakhoz, majd mindig jelezte, hogy milyen járatok indulnak <em>(Budapesten)</em> a közelemből.
+ Nah ezek után jött a nagy meglepetésem, mikor a gépemen <em>(laptop)</em> rákerestem
+ <a href="https://maps.google.com/">Google Maps</a>-en egy utcára és amikor ránéztem utána a
+ telefonra, akkor volt egy értesítőm, hogy nagy a forgalom, kb 34 perc lesz az út és
+ legközelebb 3, 13 és 23 perc múlva indul arra a közelemből busz, ha el akarok jutni az
+ imént keresett utcába. Ezek után már nem jelentett nagy meglepetést amikor reggel írta,
+ hogy enyhe forgalom van, 12 perc lesz bejutnom munkahelyre és 4, 9, 14 és 19 perc múlva
+ indulnak buszok amikkel odajutok. Először elgondolkodtam, honnan tudja ez hol dolgozom
+ aztán rájöttem, hogy ki van töltve Google rendszerében, mint ahogy az Otthon is meg van
+ adva, így munkaidő végefele jelzi, hogy mennyi idő hazajutnom és mikor jön a busz.
+ Tényleg zseniális. És akkor nem beszéltem még ugyebár az eseményekről. Ha a naptáramban
+ van valami a mai napra akkor azt szintén kiírja. Én a Google Now megtekintésével indítom
+ a napomat.</p>
+
+<p><section role='floated-image-list'>
+  <div class="img">
+<img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0011.png" width="130" title="Időjárás" >
+<img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0012.png" width="130" title="Indulás haza" >
+<img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0013.png" width="130" title="Út haza térképpel" >
+<img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0014.png" width="130" title="Mit tud még 1." >
+<img class="left zoom" src="http://folyam.info.s3.amazonaws.com/2012-08-13-android-jelly-bean-et-pakoltam-a-samsung-galaxy-s-emre-i9000/0015.png" width="130" title="Mit tud még 2." ></p>
+
+<h3>Minden más</h3>
+
+<p>Sok olyan van még ami nagyon tetszik belőle, de ami igazán megfogott az a zárolt képernzőn
+elhelyezhető <em>mai események</em> és az <em>időjárás</em>. Testre szabható alapértelmezetten, hogy mik
+legyenek a nyitásnál a különböző irányokban, viszont egyelőre még nincs választás. Hang
+sincs alapértelmezetten benne csak 1 hangjelző, 1 csengőhang és örülj annak, ha többet
+akarsz akkor rakj a telefonodra te. Valahol pozitív valahol pedig negatív számomra :) A
+leginkább tetszetős, hogy alapértelmezett zenelejátszó a
+<a href="https://play.google.com/store/apps/details?id=com.google.android.music">Google Music</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
