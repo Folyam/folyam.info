@@ -11,6 +11,8 @@ image: http://folyam.info.s3.amazonaws.com/2012-07-17-szvegformzs-s-gyorsbillent
 
 Hogyan tudjuk megformázni bejegyzéseinket, hogy olvashatóbb tudjon lenni és pár hasznos dolog a gyorsbillentyűkről.
 
+<!--more-->
+
 {% youtube https://www.youtube.com/embed/_WE0emGa2-8?rel=0 %}
 
 ### Formázási lehetőségek

@@ -23,6 +23,8 @@ Mi érdekel?
  - Mit tudsz ajánlani, amit máshol láttál/hallottál, te nem használod, de jónak tartod? Miért nem használod és miért látsz benne fantáziát?
 {% endblockquote %}
 
+<!--more-->
+
 {% youtube http://www.youtube.com/embed/agkRLzKtzZE %}
 
 ### Alap kérdések:

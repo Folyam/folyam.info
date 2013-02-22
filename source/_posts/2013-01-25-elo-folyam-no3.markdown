@@ -9,6 +9,8 @@ pluspost: https://plus.google.com/u/0/105613682641367710983/posts/ZXhby6n1Cxr
 
 Google+ közösségek
 
+<!--more-->
+
 {% youtube http://www.youtube.com/embed/iq8adTQRtQs %}
 
 ## Közösségek elérhetősége

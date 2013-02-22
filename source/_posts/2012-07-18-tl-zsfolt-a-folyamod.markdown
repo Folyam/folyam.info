@@ -20,6 +20,8 @@ Erre nagyon jó lehetőséget ad nekünk a rendszer, mert körönként
 megadhatjuk, hogy mennyire szeretnénk látni az adott körbe tartozó
 bejegyzéseket a fő folyamunkban.
 
+<!--more-->
+
 ### Mégis hogyan?
 
 Ha nem egy körbe raktál mindenkit akkor kiválasztasz egy kört a felső

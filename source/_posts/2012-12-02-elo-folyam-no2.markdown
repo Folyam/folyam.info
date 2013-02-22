@@ -9,6 +9,8 @@ pluspost: https://plus.google.com/u/0/105613682641367710983/posts/ZXhby6n1Cxr
 
 Körök logikája, kezelése, Köreid és Tágabb köreid fogalma illetve Megosztás éretsítéssel és anélkül
 
+<!--more-->
+
 {% youtube http://www.youtube.com/embed/_U4qsvI-iOE %}
 
 ### Körök logikája

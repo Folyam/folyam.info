@@ -14,6 +14,8 @@ Elmondható nagyon sok minden a Jelly Bean-ről _—a 4.1-es Androidról—_ jó
 egyaránt. Nekem tetszik és gyorsan meg is mutatnám mi az ami legelőször belopta szívembe
 eme rendszert.
 
+<!--more-->
+
 ### JB, de honnan?
 
 Először is nézzük meg mit használok.

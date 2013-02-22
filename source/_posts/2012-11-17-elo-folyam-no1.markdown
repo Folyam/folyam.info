@@ -12,6 +12,8 @@ bejegyzésben, Köröknél új fokozat avagy minden bejegyzésről kérek értes
 megújúlt, Hangout Air, lehetőségek és koncertek, Blogolás Google+ oldalként vagy
 személyként. Lehetséges?
 
+<!--more-->
+
 {% youtube http://www.youtube.com/embed/HLDhC8MM7b4 %}
 
 ### Felhasználó tiltása, mellőzése és némítása

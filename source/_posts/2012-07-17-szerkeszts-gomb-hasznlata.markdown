@@ -13,4 +13,6 @@ image: http://folyam.info.s3.amazonaws.com/2012-07-17-szerkeszts-gomb-hasznlata/
 jönnek az információk, de lehet követhetőbb, átláthatóbb és kevésbé idegesítő, ha egy
 összefoglaló bejegyzést írsz. Ebben nagy segítségedre lehet a szerkesztés gomb.
 
+<!--more-->
+
 {% youtube https://www.youtube.com/embed/-WMYA-f9Jyw?rel=0 %}
