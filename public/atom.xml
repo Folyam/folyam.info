@@ -4,7 +4,7 @@
   <title><![CDATA[Folyam.info]]></title>
   <link href="http://folyam.info/atom.xml" rel="self"/>
   <link href="http://folyam.info/"/>
-  <updated>2013-02-22T16:29:51+01:00</updated>
+  <updated>2013-02-22T22:11:59+01:00</updated>
   <id>http://folyam.info/</id>
   <author>
     <name><![CDATA[Balazs Nadasdi]]></name>
@@ -14,7 +14,35 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Élő Folyam #3]]></title>
+    <title type="html"><![CDATA[Blogmotor váltás, veszteségek]]></title>
+    <link href="http://folyam.info/2013/02/22/blogmotor-valtas-vesztesegek/"/>
+    <updated>2013-02-22T21:53:00+01:00</updated>
+    <id>http://folyam.info/2013/02/22/blogmotor-valtas-vesztesegek</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2013-02-22-blogmotor-valtas-vesztesegek/new-start.jpeg"></p>
+
+<p>Miután a <a href="http://dev.folyam.info">+[Dev] Folyam.info</a> alatt <a href="http://octopress.org">Octopress</a>
+fut már majd egy hete és nagyon is bevállt, így lecseréltem a <a href="http://jekyllrb.com">Jekyll</a>-t
+itt is. Milyen változásokat hol ez?</p>
+
+<!--more-->
+
+
+<p>Sok változás nem lesz tapasztalható, A kinézet egyelőre megkapta az alap Octopress-es
+külsőt. Talán egyszer átrakom másra, de most ez a legkevésbé prioritásos munkám. Működésben
+eltűnnek a címkék és a több kategóriás rendszer kerül be. Ennek vannak negatív részei is.
+Nem tudtam megoldani, hogy az URL ugyan az legyen így az összes +1 eltűnt. =( Ez egy
+elég negatív dolog az egészben. Ami viszont így jó, hogy könnyebb kezelni és a Dev miatt
+már jópár kiegészítőt írtam hozzá, amiktől még egyszerűbbé vált és folyamatosan válik.</p>
+
+<p>Az aktivitásom mostanában eltűnt, de visszahozom. Kicsit kilépek majd a Google+ soraiból
+és tágabbra veszem a témát, ami már amúgy is többször felmerült. Így elsőként az új lendület
+által hajtva a Google kereső kerül szem elé. Nagyon sok olyan van amit kevesen ismernek és
+ezekbe szeretnék betekintést adni a szokásos <a href="http://folyam.info/blog/categories/hogyan">hogyan</a> formájában.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Élő Folyam #3 - Közösségek]]></title>
     <link href="http://folyam.info/2013/01/25/elo-folyam-no3/"/>
     <updated>2013-01-25T20:09:00+01:00</updated>
     <id>http://folyam.info/2013/01/25/elo-folyam-no3</id>
@@ -41,7 +69,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Élő Folyam #2]]></title>
+    <title type="html"><![CDATA[Élő Folyam #2 - Körök]]></title>
     <link href="http://folyam.info/2012/12/02/elo-folyam-no2/"/>
     <updated>2012-12-02T20:11:00+01:00</updated>
     <id>http://folyam.info/2012/12/02/elo-folyam-no2</id>
@@ -91,7 +119,7 @@ ez most nincs. Vagy mindenki vagy senki. Ha személyt írunk be, akkor az minden
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Elő Folyam #1]]></title>
+    <title type="html"><![CDATA[Elő Folyam #1 - Újdonságok]]></title>
     <link href="http://folyam.info/2012/11/17/elo-folyam-no1/"/>
     <updated>2012-11-17T20:17:00+01:00</updated>
     <id>http://folyam.info/2012/11/17/elo-folyam-no1</id>

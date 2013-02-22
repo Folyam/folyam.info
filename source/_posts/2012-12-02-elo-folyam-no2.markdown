@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Élő Folyam #2"
+title: "Élő Folyam #2 - Körök"
 categories: [hangout, google+, elofolyam, hogyan]
 comments: true
 date: 2012-12-02 20:11

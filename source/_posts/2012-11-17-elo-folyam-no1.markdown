@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Elő Folyam #1"
-categories: [hangout, google+, elofolyam, hogyan]
+title: "Elő Folyam #1 - Újdonságok"
+categories: [hangout, google+, elofolyam]
 comments: true
 date: 2012-11-17 20:17
 pluspost: https://plus.google.com/u/0/105853491239853198987/posts/dTZpHLL4nWk
