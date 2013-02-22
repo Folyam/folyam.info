@@ -20,7 +20,7 @@ külsőt. Talán egyszer átrakom másra, de most ez a legkevésbé prioritásos
 eltűnnek a címkék és a több kategóriás rendszer kerül be. Ennek vannak negatív részei is.
 Nem tudtam megoldani, hogy az URL ugyan az legyen így az összes +1 eltűnt. =( Ez egy
 elég negatív dolog az egészben. A régi címek is elérhetőek, mert egy átirányítással
-gyorsan megt tudtam azt oldani. Ami viszont így jó, hogy könnyebb kezelni és a Dev miatt
+gyorsan meg tudtam azt oldani. Ami viszont így jó, hogy könnyebb kezelni és a Dev miatt
 már jópár kiegészítőt írtam hozzá, amiktől még egyszerűbbé vált és folyamatosan válik.
 
 Az aktivitásom mostanában eltűnt, de visszahozom. Kicsit kilépek majd a Google+ soraiból
