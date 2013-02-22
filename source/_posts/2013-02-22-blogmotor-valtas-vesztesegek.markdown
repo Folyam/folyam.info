@@ -4,6 +4,7 @@ title: "Blogmotor váltás, veszteségek"
 date: 2013-02-22 21:53
 comments: true
 categories: altalanos
+image: http://folyam.info.s3.amazonaws.com/2013-02-22-blogmotor-valtas-vesztesegek/new-start.jpeg
 ---
 
 {% img center http://folyam.info.s3.amazonaws.com/2013-02-22-blogmotor-valtas-vesztesegek/new-start.jpeg %}
