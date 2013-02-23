@@ -4,7 +4,7 @@
   <title><![CDATA[Kategória: hogyan | Folyam.info]]></title>
   <link href="http://folyam.info/blog/categories/hogyan/atom.xml" rel="self"/>
   <link href="http://folyam.info/"/>
-  <updated>2013-02-22T22:38:53+01:00</updated>
+  <updated>2013-02-23T15:21:18+01:00</updated>
   <id>http://folyam.info/</id>
   <author>
     <name><![CDATA[Balazs Nadasdi]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google+ Nagyítás]]></title>
+    <link href="http://folyam.info/2013/02/23/google-plus-nagyitas/"/>
+    <updated>2013-02-23T15:08:00+01:00</updated>
+    <id>http://folyam.info/2013/02/23/google-plus-nagyitas</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://folyam.info.s3.amazonaws.com/2013-02-23-google-plus-nagyitas/zoom-map.png" width="150"></p>
+
+<p>Google+ bár nem túl gyorsan, de fejleszti a galáriáját és a képkezelését is. Réges-régen
+a nagy képekkel nem tudott mit kezdeni. Már nem ma került bele a nagyítás lehetősége,
+de sokan még nem tudják, hogy van, mert nem egyértelmű, mivel a nagyítást segítő kis térkép
+nem jelenik meg, csak akkor ha már belenagyítottunk. Tehát ha valaki nem görget a képen,
+akkor nem is fog találkozni a lehetőséggel.</p>
+
+<p>Hogyan lehet nagyítani és így megnézni a nagy képeket? Mivel leírni ezt nehéz lett volna,
+legalábbis nehezebb, mint mozgóképesen bemutatni, így nézd meg a videót :)</p>
+
+<!--more-->
+
+
+<p><iframe src="http://www.youtube.com/embed/gloFwOOgQ5s" width="620" height="465" frameborder='0' allowfullscreen='true'></iframe></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Élő Folyam #2 - Körök]]></title>
@@ -220,24 +243,6 @@ p       Ugrás az előzőgjegyzésre (vagy az elsőre)
 r       Megjegyzés írásra az aktuálisan kijelölt bejegyzéshez
 /       Ugrás a keresőmezőre
 </code></pre>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Szerkesztés gomb használata]]></title>
-    <link href="http://folyam.info/2012/07/17/szerkeszts-gomb-hasznlata/"/>
-    <updated>2012-07-17T12:25:00+02:00</updated>
-    <id>http://folyam.info/2012/07/17/szerkeszts-gomb-hasznlata</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://folyam.info.s3.amazonaws.com/2012-07-17-szerkeszts-gomb-hasznlata/0001.png" title="&#34;Szerkesztés&#34;" alt="&#34;Szerkesztés&#34;"></p>
-
-<p>Érthető, ha valamit gyorsan kell megosztani és az is, ha ez mondjuk egy esemény és gyorsan
-jönnek az információk, de lehet követhetőbb, átláthatóbb és kevésbé idegesítő, ha egy
-összefoglaló bejegyzést írsz. Ebben nagy segítségedre lehet a szerkesztés gomb.</p>
-
-<!--more-->
-
-
-<p><iframe src="https://www.youtube.com/embed/-WMYA-f9Jyw?rel=0" width="620" height="465" frameborder='0' allowfullscreen='true'></iframe></p>
 ]]></content>
   </entry>
   
