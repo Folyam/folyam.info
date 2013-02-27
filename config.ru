@@ -1,6 +1,13 @@
 require 'bundler/setup'
 require 'sinatra/base'
 require 'rack/rewrite'
+require 'rack-cache'
+
+use Rack::Static,
+  :urls => ["/assets", "/images", "/javascripts", "/stylesheets", "/media" ],
+  :root => 'public',
+  :cache_control => 'public, max-age=2592000'
+use Rack::Deflater
 
 # The project root directory
 $root = ::File.dirname(__FILE__)
@@ -10,6 +17,10 @@ use Rack::Rewrite do
 end
 
 class SinatraStaticServer < Sinatra::Base
+
+  before do
+    expires 3600, :public, :must_revalidate
+  end
 
   get(/.+/) do
     send_sinatra_file(request.path) {404}
