@@ -3,7 +3,35 @@
     window.___gcfg = {lang: '{{ site.lang }}'};
 
     (function() {
+      function _getComputedStyle(el, cssprop){
+       if (el.currentStyle) {
+        // for IE
+        return el.currentStyle[cssprop]
+       } else if (document.defaultView && document.defaultView.getComputedStyle) {
+        // Any other normal brwoser (like Chrome, Firefox)
+        return document.defaultView.getComputedStyle(el, "")[cssprop]
+       } else {
+        // Try get inline style
+        return el.style[cssprop]
+        }
+      }
+
+
       var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.onload = function() {
+        if (gapi && gapi['comments'] && gapi.comments['render']) {
+          var gPlusCommentContainer = document.getElementById('gpluscomments');
+          gapi.comments.render(
+            'gpluscomments',
+            {
+              href: gPlusCommentContainer.getAttribute('data-href'),
+              view_type: gPlusCommentContainer.getAttribute('data-viewtype'),
+              first_party_property: "BLOGGER",
+              width: parseInt(_getComputedStyle(gPlusCommentContainer, "width"), 10)
+            }
+          );
+        }
+      };
       script.src = 'https://apis.google.com/js/plusone.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
     })();
