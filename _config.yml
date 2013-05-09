@@ -104,6 +104,7 @@ google_comments: true
 
 # Google Analytics
 google_analytics_tracking_id: "UA-33446239-7"
+google_analytics_domain: "folyam.info"
 
 # Facebook Like
 facebook_like: true
