@@ -19,3 +19,5 @@ end
 gem 'sinatra', '~> 1.3.3'
 gem 'rack-rewrite'
 gem 'rack-cache'
+
+gem 'newrelic_rpm'
