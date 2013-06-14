@@ -7,8 +7,18 @@ categories: [felhivas, hangout, altalanos, publikacio]
 image: http://folyam.info.s3.amazonaws.com/2013-06-15-public-squares/public-squares.jpg
 ---
 
-Amit a promóanyag mond az fontos. Nagyon kevés dolog van, amit a szabadság elé helyezek
-fontosságban, de nem személyi szinten még kevesebb.
+{% img left http://folyam.info.s3.amazonaws.com/2013-06-15-public-squares/public-squares.jpg 300 302 Public Squares %}
+
+Amit a szabadságról és a kommunikációról mond a Google Hangouts promóanyaga, az fontos
+dolog. Nagyon kevés dolog van, amit a szabadság elé helyezek fontosságban, de nem személyi
+szinten még kevesebb.
+
+Mindenkinek ajánlom megnézni, a cikket elolvasni aztán, nyugodtan
+hozzá lehet szólni, mert pont az a fontos, hogy az emberek beszéljenek egymással,
+mondják el a véleményüket, mondják el mi tetszik és mi nem. Ha erre valahol nincs
+lehetőség, akkor az jó hely nem lehet vagy az a WC.
+
+<!-- more -->
 
 {% youtube http://www.youtube.com/embed/MaQmyhkGNm0 %}
 
@@ -24,8 +34,6 @@ Sajnos, mivel mivel senki se ugrott rá és egyedül kevésnek éreztem magam, �
 napolva, de jó lenne megcsinálni. Mindenekelőtt szerintem hasznos lenne. Másodsoron pedig
 megmutatni, hogy lehet, lehet így is kommunikálni. Vannak emberek, akik még szeretnének
 beszélni és nem kell mindenkinek magában otthon morgolódnia.
-
-{% img left http://folyam.info.s3.amazonaws.com/2013-06-15-public-squares/public-squares.jpg 300 302 Public Squares %}
 
 Remélem most nem csúszik tova az elképzelés. Hogy jogi vonzata lehet-e? Nem kell félni,
 ha lesz az igencsak nagy baj, de minden hozzá kapcsolódó dogot felvállalok tehát, ha külon
